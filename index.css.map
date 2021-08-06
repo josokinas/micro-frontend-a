@@ -1,1 +1,1 @@
-{"mappings":"AAAA,EACE,UCCF","sources":["./src/styles.scss","./%3Cinput%20css%203bOfwj%3E"],"sourcesContent":["p {\n  color: #00f;\n}\n","p {\n  color: #00f;\n}\n/*# sourceMappingURL=index.css.map */\n"],"names":[],"version":3,"file":"index.css.map"}
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAAA,EACE","file":"index.css","sourceRoot":"../src","sourcesContent":["p {\n  color: #00f;\n}\n"]}
